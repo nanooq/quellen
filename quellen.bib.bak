@@ -55,7 +55,7 @@ Sowohl Linus als auch Tim haben den G20-Gipfel in Hamburg nur aus der Ferne verf
   year   = {2017},
   note   = {[Online; Stand 23. August 2017 ]},
   groups = {G20vsGG20},
-  url    = {\url{https://de.wikipedia.org/w/index.php?title=Vereinte_Nationen&oldid=166926804}},
+  url    = {https://de.wikipedia.org/w/index.php?title=Vereinte_Nationen&oldid=166926804},
 }
 
 @Misc{LifeOfBrian,
@@ -201,10 +201,131 @@ Sowohl Linus als auch Tim haben den G20-Gipfel in Hamburg nur aus der Ferne verf
   author    = {Born, David},
   isbn      = {978-3-658-06809-7},
   date      = {2014-08-07},
+  doi       = {10.1007/978-3-658-06809-7},
   ean       = {9783658068097},
+  file      = {Born2014.pdf:diss-ethnographie/Born2014.pdf:PDF},
   groups    = {diss-ethnographie},
   pagetotal = {267},
   url       = {http://www.ebook.de/de/product/22707576/david_born_vereine_als_oeffentliches_gut.html},
+}
+
+@Book{Stickel2017,
+  title     = {Selber machen},
+  publisher = {transcript Verlag},
+  year      = {2017},
+  author    = {Oliver Stickel, Konstantin Aal, Marén Schorch, Dominik Hornung, Alexander Boden, Volker Wulf, Volmar Pipek},
+  isbn      = {9783839433508},
+  abstract  = {Ein Diskussionsbeitrag zur Forschungs-­ und Bildungsarbeit aus praxistheoretischer Perspektive
+
+Based on a 2014 case study on 3D-printing in Palestinian refugee camps in the West Bank, we reflect on more general issues regarding research activities in ›developmental‹ contexts. To this end, we draw upon discussions about and critique of our own work as well as critical discourses from the field of Information and Communication Technologies/Human Computer Interaction for Development (ICT4D/HCI4D). Leading up to those reflections, we illustrate the background of our case study within the research project »come_IN« as well as its position within a stream of practice-theory-motivated research on socio-technical systems. We hope to be able to present a useful, empirically grounded and illustrated contribution towards the evolution of a more pluralistic, balanced and effective under standing of research in contexts of political unrest, instability and rapidly devel oping societal changes.},
+  date      = {2017-04-30},
+  ean       = {9783839433508},
+  file      = {Stickel2017.pdf:diss-ethnographie/Stickel2017.pdf:PDF},
+  groups    = {diss-ethnographie},
+  url       = {http://www.ebook.de/de/product/28942801/selber_machen.html},
+}
+
+@Article{Mosconi2017,
+  author   = {Mosconi, Gaia and Korn, Matthias and Reuter, Christian and Tolmie, Peter and Teli, Maurizio and Pipek, Volkmar},
+  title    = {From Facebook to the Neighbourhood: Infrastructuring of Hybrid Community Engagement},
+  journal  = {Computer Supported Cooperative Work (CSCW)},
+  year     = {2017},
+  volume   = {26},
+  number   = {4},
+  pages    = {959--1003},
+  month    = {Dec},
+  issn     = {1573-7551},
+  abstract = {In recent years, social media have increased the resources that individuals and organizations are able to mobilize for the development of socially innovative practices. In this article, we engage with a naturally occurring development in a Trentinian neighbourhood to examine the cooperative interactions amongst members of a local community. The first author and local residents of the neighbourhood participated in online discussions, decision making, and physical activities that led to material changes in the area. The interventions are motivated by and based on the concept of Social Street that combines online interactions in a closed Facebook group with face-to-face meetings seeking to practically engage the collective in accomplishing certain immediate or ongoing needs. Over the course of two years, we studied this local instantiation of Social Street in Trento, Italy by way of an action-oriented (digital) ethnography. Through this work, we demonstrate how urban neighbourhoods might benefit from hybrid forms of community engagement that are enacted through a constant back and forth between online and face-to-face interactions. We further argue that the infrastructuring of local urban collectives should follow strategies that pay attention to the multiple issues in urban neighbourhoods and people's attachments to them. Overall, the paper reflects upon the challenges and configurations of participation that this form of community-work entails.},
+  day      = {01},
+  doi      = {10.1007/s10606-017-9291-z},
+  file     = {Mosconi2017.pdf:diss-ethnographie/Mosconi2017.pdf:PDF},
+  url      = {https://doi.org/10.1007/s10606-017-9291-z},
+}
+
+@Article{Stickel2016,
+  author   = {Oliver Stickel, Volkmar Pipek},
+  title    = {Infrastructuring \& Digital Fabrication},
+  journal  = {INFORMATIK 2016, Lecture Notes in Informatics (LNI), Gesellschaft für Informatik, Bonn},
+  year     = {2016},
+  abstract = {We try to provide an insight into digital fabrication from the point of view of infrastructuring as a holisitc research and practice lens from Computer Supported Collaborative Work. Our position paper serves as a discussion contribution for the workshop "Additive Fabrication/3D Printing – Technology, Impact and Chances" at Informatik 2016.},
+  file     = {Stickel2016-lni.pdf:diss-ethnographie/Stickel2016-lni.pdf:PDF;Stickel2016.pdf:diss-ethnographie/Stickel2016.pdf:PDF},
+  groups   = {diss-ethnographie},
+  keywords = {position paper; digital fabrication; infrastructuring; cscw},
+}
+
+@Article{Boeckenfoerde2003,
+  author  = {Ernst-Wolfgang Böckenförde},
+  title   = {Die Würde des Menschen war unantastbar},
+  journal = {Frankfurter Allgemeine Zeitung},
+  year    = {2003},
+  number  = {204},
+  pages   = {33},
+  month   = sep,
+  groups  = {G20vsGG20},
+}
+
+@Article{Boeckenfoerde2004,
+  author  = {Ernst-Wolfgang Böckenförde},
+  title   = {Bleibt die Menschenwürde unantastbar?},
+  journal = {Blätter für deutsche und internationale Politik},
+  year    = {2004},
+  number  = {10},
+  pages   = {1215-1227},
+  groups  = {G20vsGG20},
+}
+
+@Article{Nettesheim2005,
+  author  = {Martin Nettesheim},
+  title   = {Die Garantie der Menschenwürde zwischen metaphysischer Überhöhung und bloßem Abwägungstopos},
+  journal = {Archiv des öffentlichen Rechts},
+  year    = {2005},
+  number  = {130},
+  pages   = {71–113},
+  groups  = {G20vsGG20},
+}
+
+@Misc{Bielefeldt2004,
+  author       = {Heiner Bielefeldt},
+  title        = {Das Folterverbot im Rechtsstaat},
+  howpublished = {Deutsches Institut für Menschenrechte: Policy Paper No. 4},
+  month        = jun,
+  year         = {2004},
+  file         = {Bielefeldt2004.pdf:g20-vs-gg20/Bielefeldt2004.pdf:PDF},
+  groups       = {G20vsGG20},
+  journal      = {Policy Paper No. 4, Berlin, Juni 2004},
+}
+
+@Article{Gusy2005,
+  author = {Christoph Gusy},
+  title  = {Menschenrechte und Strafverfahren},
+  year   = {2005},
+  groups = {G20vsGG20},
+}
+
+@Book{Jarass2013,
+  title        = {Grundgesetz für die Bundesrepublik Deutschland. Kommentar GG},
+  year         = {2013},
+  author       = {Jarass, Hans D. and Pieroth, Bodo},
+  address      = {München C.H. Beck 2012},
+  edition      = {12. Auflage.},
+  isbn         = {9783406639630; 3406639631},
+  note         = {Verfasserangabe: von Dr. Hans D. Jarass, LL. M. (Harv.), o. Professor an der Universität Münster und Dr. Bodo Pieroth, o. Professor an der Universität Münster ; Includes index. ; Language: German ; Genre: Legislation ; Quelldatenbank: CURL ; Format:marcform: print ; Umfang: xxvi, 1312 pages ; 20 cm. ; 9783406639630 ; 3406639631},
+  file         = {Jarass2013.pdf:g20-vs-gg20/Jarass2013.pdf:PDF},
+  howpublished = {Buch},
+  keywords     = {Germany. - Grundgesetz., Constitutional law - Germany., Constitutions., Droit constitutionnel., Droits fondamentaux., Commentaires., Constitutional law., Constitutions., Constitutions - Germany., Allemagne RF., Germany.},
+  location     = {Cardiff University Libraries; University College London Library; University of Cambridge Libraries},
+  type         = {text},
+  url          = {http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=4646107\&custom\_att\_2=simple\_viewer},
+}
+
+@Misc{Online2014,
+  author       = {B.Z. Online},
+  title        = {Als die Liebe durch Berlin tanzte},
+  howpublished = {Online},
+  month        = jul,
+  year         = {2014},
+  groups       = {G20vsGG20},
+  url          = {http://www.bz-berlin.de/kultur/musik/25-jahre-loveparade-berlin-jubilaeum},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
