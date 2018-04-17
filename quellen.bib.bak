@@ -205,7 +205,7 @@ Sowohl Linus als auch Tim haben den G20-Gipfel in Hamburg nur aus der Ferne verf
   doi       = {10.1007/978-3-658-06809-7},
   ean       = {9783658068097},
   file      = {Born2014.pdf:diss-ethnographie/Born2014.pdf:PDF},
-  groups    = {diss-thema},
+  groups    = {diss-ethnographie},
   pagetotal = {267},
   url       = {http://www.ebook.de/de/product/22707576/david_born_vereine_als_oeffentliches_gut.html},
 }
@@ -222,7 +222,7 @@ Based on a 2014 case study on 3D-printing in Palestinian refugee camps in the We
   date      = {2017-04-30},
   ean       = {9783839433508},
   file      = {Stickel2017.pdf:diss-ethnographie/Stickel2017.pdf:PDF},
-  groups    = {diss-thema},
+  groups    = {diss-ethnographie},
   url       = {http://www.ebook.de/de/product/28942801/selber_machen.html},
 }
 
@@ -240,7 +240,6 @@ Based on a 2014 case study on 3D-printing in Palestinian refugee camps in the We
   day      = {01},
   doi      = {10.1007/s10606-017-9291-z},
   file     = {Mosconi2017.pdf:diss-ethnographie/Mosconi2017.pdf:PDF},
-  groups   = {diss-thema},
   url      = {https://doi.org/10.1007/s10606-017-9291-z},
 }
 
@@ -251,7 +250,7 @@ Based on a 2014 case study on 3D-printing in Palestinian refugee camps in the We
   year     = {2016},
   abstract = {We try to provide an insight into digital fabrication from the point of view of infrastructuring as a holisitc research and practice lens from Computer Supported Collaborative Work. Our position paper serves as a discussion contribution for the workshop "Additive Fabrication/3D Printing – Technology, Impact and Chances" at Informatik 2016.},
   file     = {Stickel2016-lni.pdf:diss-ethnographie/Stickel2016-lni.pdf:PDF;Stickel2016.pdf:diss-ethnographie/Stickel2016.pdf:PDF},
-  groups   = {diss-thema},
+  groups   = {diss-ethnographie},
   keywords = {position paper; digital fabrication; infrastructuring; cscw},
 }
 
